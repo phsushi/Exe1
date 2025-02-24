@@ -10,4 +10,5 @@ console.log(muito + cant + receba);
 /* Adendo --> shift + alt copia a linha inteira 
 onde estiver o ponteiro ou então o que for selecionado */
 
+// crt + out inserção em várias linhas ao mesmo tempo
 
