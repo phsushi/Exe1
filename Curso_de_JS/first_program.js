@@ -12,3 +12,23 @@ onde estiver o ponteiro ou então o que for selecionado */
 
 // crt + out inserção em várias linhas ao mesmo tempo
 
+const rebeba = new Array(
+    '1',
+    '2',
+    '3',
+    '4',
+    '5'
+);
+const rebeba2 = new Array(
+    '5',
+    '4',
+    '3',
+    '2',
+    '1'
+);
+
+for(let i = 0; i<rebeba.length; i++){
+    if(rebeba.includes(rebeba2[i].toString())){
+        console.log("interpretou");
+    }
+}
