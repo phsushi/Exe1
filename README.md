@@ -1,4 +1,16 @@
-# Exercício 1
- Teste de Repositório Git 
+# JavaScript 
+Uma linguagem criada para uso exclusivo 
+dos browser e webDevelopment e transcendeu! 
+## Descobrindo a linguagem e suas diversas funções
 
- Procurando entender como funciona o Git juntamente do GitHub
+### Conteúdo:
+
+* Variáveis 
+* Conversão
+* Listas
+* Loops
+* OOP
+    * Classes
+    * Objetos
+    * Atributos (privados e públicos)
+    * Métodos
